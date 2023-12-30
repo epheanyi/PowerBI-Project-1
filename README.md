@@ -10,7 +10,7 @@ PowerBI - Visualization
 
 ## Explolatory Data Analysis (EDA)
 Revenue, Profit, Returns, Target, 6% of PY
-Top 5 Customer, Employee, Product
+Top 5 Customer, Employee, Product by Sales
 
 ## Data Analysis
 Formatted the date column using format
