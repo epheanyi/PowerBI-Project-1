@@ -5,14 +5,12 @@ The brief is as outlined in the attached excel file using the AdventureWorks dat
 MSSQL AdventureWorks Database
 
 ##Tools :
-MSSQLl - Data Cleaning, modelling
+MSSQL - Data Cleaning, modelling
+PowerBI - Visualization
 
 ## Explolatory Data Analysis (EDA)
-Top Sales by Category
-Top Sales by Country
-Top Percentage Sales/Returns
-Country/Continent/Description Slides
-Top Sales by SalesPerson
+Revenue, Profit, Returns, Target, 6% of PY
+Top 5 Customer, Employee, Product
 
 ## Data Analysis
 Formatted the date column using format
